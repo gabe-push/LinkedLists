@@ -10,4 +10,4 @@ The second file demonstrates creating a character-based linked list, and uses th
 
 ## DoubleLinked.cpp
 
-The third file demonstrates creating a doubly-linked list, and uses the functions traverseHead2Tail and traverseTail2Head to print the data of each node starting from the head or starting from the tail, respectively. 
+The third file demonstrates creating a doubly-linked list with both a head and a tail node, and uses the functions traverseHead2Tail and traverseTail2Head to print the data of each node starting from the head or starting from the tail, respectively. 
